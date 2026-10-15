@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+<title id="title">Retentia AI: Live Player Retention &amp; Machine Learning Telemetry System project mark</title><desc id="desc">Original graph symbol in the portfolio icon system.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#1b2838"/><stop offset="1" stop-color="#0b111a"/></linearGradient><linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#B69CFF"/><stop offset="1" stop-color="#7566DC"/></linearGradient></defs>
+<rect x="4" y="4" width="120" height="120" rx="28" fill="url(#bg)" stroke="#344354" stroke-width="2"/>
+<g fill="none" stroke="url(#accent)" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"><path d="M36 77V56h12v21M58 77V39h12v38M80 77V49h12v28"/><path d="m36 47 17-10 13 7 22-16"/><circle cx="88" cy="28" r="4" fill="#B69CFF" stroke="none"/></g>
+<path d="M34 91h60" stroke="#344354" stroke-width="2"/>
+<text x="64" y="111" text-anchor="middle" fill="#e8eef6" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="1.2">RAL</text>
+</svg>
