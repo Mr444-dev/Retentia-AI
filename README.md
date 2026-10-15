@@ -3,6 +3,7 @@
 </p>
 
 <h1 align="center">Retentia AI: Live Player Retention &amp; Machine Learning Telemetry System</h1>
+
 Retentia AI is an end-to-end player retention and analytics system designed for modern game developers. It features an **on-device Machine Learning inference engine (Unity Sentis)** coupled with a **rule-based flagging engine** that tracks player frustration and disengagement. The SDK communicates in real-time with a **React-based Web Dashboard** to display telemetry, spatial player death heatmaps, and allow developers to send remote commands or run multivariate A/B tests.
 
 ---
